@@ -1,6 +1,6 @@
 ### Hi I'm Isidora 👋
 
-My name is Isidora Karan and I'm graduation student in Information Managment. I’m currently learning SQL and Java so I can become Java Developer. 
+
 - 📫 How to reach me: karanisidora@hotmail.com
 
 
